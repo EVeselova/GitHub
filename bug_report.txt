@@ -2,7 +2,7 @@ id
 title
 preconditions
 STR
-[D[Dexpected result
+expected result
 actual result
 severity
 priority
